@@ -1,0 +1,816 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1.0,user-scalable=0">
+  <meta name="theme-color" content="">
+  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
+  <link rel="preconnect" href="https://fonts.shopify.com" crossorigin="">
+  <link rel="preconnect" href="https://monorail-edge.shopifysvc.com">
+
+  <link rel="canonical" href="contact.php">
+  <link rel="shortcut icon" href="cdn/shop/files/Leather-2_16x16.png" type="image/png">
+  <title>
+    Contact
+    &ndash; dliwatisons</title>
+
+
+  <!-- Social meta  -->
+
+
+  <meta property="og:site_name" content="dliwatisons">
+  <meta property="og:url" content="https://dliwatisons.com/pages/contact">
+  <meta property="og:title" content="Contact">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="dliwatisons">
+  <meta property="og:image"
+    content="http://dliwatisons.com/cdn/shop/files/footerlogo_e06d10a9-db00-48fb-8919-f834d3980938.png?v=1649240492">
+  <meta property="og:image:secure_url"
+    content="https://dliwatisons.com/cdn/shop/files/footerlogo_e06d10a9-db00-48fb-8919-f834d3980938.png?v=1649240492">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Contact">
+  <meta name="twitter:description" content="dliwatisons">
+
+  <!-- CSS  -->
+  <link href="cdn/shop/t/2/assets/dt-framework.css?v=91515318319124831101658906130" rel="stylesheet" type="text/css"
+    media="all">
+  <link href="cdn/shop/t/2/assets/dt-custom.css?v=156666898241881929561658209616" rel="stylesheet" type="text/css"
+    media="all">
+  <link href="cdn/shop/t/2/assets/swiper-bundle.min.css?v=5850897086907936371649050452" rel="stylesheet"
+    type="text/css" media="all">
+
+  <link href="cdn/shop/t/2/assets/select2.min.css?v=78297143764683102401655877800" rel="stylesheet" type="text/css"
+    media="all">
+
+  <link href="cdn/shop/t/2/assets/slick.css?v=102834294787817466131649050448" rel="stylesheet" type="text/css"
+    media="all">
+  <link href="cdn/shop/t/2/assets/font-all.min.css?v=126701773051416419891649050485" rel="stylesheet" type="text/css"
+    media="all">
+  <link href="cdn/shop/t/2/assets/animation.css?v=170469424254788653381655900643" rel="stylesheet" type="text/css"
+    media="all">
+  <link rel="stylesheet" href="cdn/shop/t/2/compiled_assets/styles.css">
+  <!-- Primary JS files  -->
+  <script src="cdn/shop/t/2/assets/jquery-3.5.1.min.js?v=177851068496422246591649050442"></script>
+  <script src="cdn/shop/t/2/assets/ajax-cart.js?v=135229083485273042011649050485" defer="defer"></script>
+  <script src="cdn/shop/t/2/assets/dt-plugins.js?v=92762141100032375411649050431"></script>
+
+  <script src="cdn/shop/t/2/assets/select2.min.js?v=146226383636201590221649050448" defer="defer"></script>
+
+  <script src="cdn/shop/t/2/assets/slick.min.js?v=78403228708673780251649050449"></script>
+  <script src="cdn/shop/t/2/assets/instafeed.js?v=81142330342592026311649050442" type="text/javascript"></script>
+
+  <script src="cdn/shop/t/2/assets/wow.js?v=106390324212083424781649050456"></script>
+  <script src="cdn/shop/t/2/compiled_assets/scripts.js" type="text/javascript"></script>
+  <script src="cdn/shop/t/2/compiled_assets/translate.js" type="text/javascript"></script>
+
+</head>
+
+<body id="contact" class="template-page  others " onload="translate(lang,'lng-tag')">
+  <div class="mobile-menu" data-menu="dt-main-menu"> </div>
+  <div class="mobile-menu-overlay"></div>
+  <div id="video_modal" class="video_overlay">
+    <div class="inner">
+      <span id="close_icon" class="dt-sc-btn close-icon" style=" position: absolute; right: 10px; top: 10px;"></span>
+    </div>
+  </div>
+  <div class="off-canvas--viewport">
+    <!-- Theme Header====== -->
+        <div data-section-id="header" data-section-type="header-section" data-header-section="">
+    <header id="header">
+      <section class="dt-sc-header-logo-sec sticky-header  logo_left " id="sticky-header">
+        <div class="container spacing_enabled">
+          <div class="row">
+            <div class="logo-alignment dt-sc-logo_left ">
+              <nav id="AccessibleNav" role="navigation" class="dt-sc-flex-space-between" data-menu="dt-main-menu">
+                <div class="logo">
+                  <a href="index.html" title="dliwatisons">
+                    <img src="cdn/shop/files/headerlogo.png" alt="dliwatisons">
+                  </a>
+                </div>
+                <div class="logo silver-rated">
+                  <img src="cdn/shop/files/silver-rated.png" alt="silver rated">
+                </div>
+                <div class="mynav">
+                  <div class="select-language-par">
+                    <a href="javascript:void(0);" class="select-language" onclick="translateMenu(event)">
+                      <img src="cdn/shop/files/en.svg">
+                    </a>
+                    <div class="select-language-sub">
+                      <ul class="select-language-sub-ul">
+                        <li class=" " id="enTranslator">
+                          <a href="javascript:void(0)" class="enTranslator" onclick="enTrans()">
+                            <img src="cdn/shop/files/en.svg">
+                            <span lng-tag="english">English</span>
+                          </a>
+                        </li>
+                        <li class=" " id="itTranslator">
+                          <a href="javascript:void(0)" class="itTranslator" onclick="itTrans()">
+                            <img src="cdn/shop/files/it.svg">
+                            <span lng-tag="italian">Italian</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <ul class=" dt-sc-list-inline dt-desktop-menu dt-nav" data-menu="dt-main-menu">
+                    <li class="close-nav"></li>
+                    <li class="0 text-menu top-level-link dt-sc-child">
+                      <a href="index.html" class="  dt-sc-nav-link dropdown">
+                        <span lng-tag="home">
+                          Home
+                        </span>
+                      </a>
+                    </li>
+                    <li class="0 text-menu top-level-link dt-sc-child">
+                      <a href="all.html" class="  dt-sc-nav-link dropdown">
+                        <span lng-tag="products">
+                          Products
+                        </span>
+                      </a>
+                    </li>
+                    <li class="0 text-menu top-level-link dt-sc-child">
+                      <a href="news.html" class="  dt-sc-nav-link dropdown">
+                        <span lng-tag="events">
+                          Events
+                        </span>
+                      </a>
+                    </li>
+                    <li class="0 text-menu top-level-link dt-sc-child">
+                      <a href="about-us.html" class="  dt-sc-nav-link dropdown">
+                        <span lng-tag="about us">
+                          About Us
+                        </span>
+                      </a>
+                    </li>
+                    <li class="0 text-menu top-level-link dt-sc-child active">
+                      <a href="contact.php" class="  dt-sc-nav-link dropdown">
+                        <span lng-tag="contact">
+                          Contact
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                  <div class="mobile-nav-container mobile-nav-offcanvas-right dt-header-menu" data-menu="dt-main-menu">
+                    <div class="menu-trigger" data-menu="dt-main-menu"> <i class="menu-trigger-icon"></i>
+                      <span lng-tag="menu">Menu</span>
+                    </div>
+                  </div>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </section>
+    </header>
+  </div>
+    <script>
+      jQuery(document).ready(function ($) {
+        "use strict";
+        // FOR MOBILE MENU    
+        if ($(window).width() <= 1199) {
+          var phrases = [];
+          $('ul.secondary__nav').each(function () {
+            var phrase = '';
+            phrase += $(this).html();
+            $(phrase).insertAfter("ul.dt-desktop-menu > li:last-child");
+          });
+
+          // Move Nav as Mobile Nav
+          $("nav.dt-sc-flex-space-between").each(function () {
+            var d = $(this).data('menu'),
+              c = $(this).find('ul[data-menu="' + d + '"]').clone().removeClass('dt-nav'),
+              m = $('body').find('.mobile-menu[data-menu="' + d + '"]');
+
+            // To Remove animation classes
+            $('[data-animation]', c).each(function (ix, ele) {
+              var $classes = $(ele).attr("class"),
+                $animation = $(ele).attr("data-animation");
+              $classes = $classes.replace($animation, '');
+              $(ele).attr("class", $classes);
+            });
+            c.prependTo(m);
+          });
+          mobileTrigger();
+
+          // Closing Mobile Nav
+          $('li.close-nav').on('click', function (event) {
+            closeMobNav();
+          });
+          $('body > .mobile-menu-overlay').on('click', function (event) {
+            closeMobNav();
+          });
+
+          // Sub Menu in Mobile Menu
+          $('.menu-item-has-children > a').on('click', function (event) {
+            if ($('body').hasClass('nav-is-visible')) {
+              event.preventDefault();
+              var a = $(this).clone();
+              $(this).next('.sub-menu-block').find('.see-all').html(a);
+            }
+            var selected = $(this);
+            if (selected.next('div.sub-menu-block').hasClass('is-hidden')) {
+              selected.addClass('selected').next('div.sub-menu-block').removeClass('is-hidden');
+            } else {
+              selected.removeClass('selected').next('div.sub-menu-block').addClass('is-hidden');
+            }
+          });
+
+          // Go Back in Mobile Menu
+          $('.go-back').on('click', function () {
+            $(this).parent('div.sub-menu-block').addClass('is-hidden');
+          });
+        }
+        // FOR DESKTOP MENU
+        if ($(window).width() >= 1200) {
+          jQuery('.menu-item-has-children > a').mouseenter(function (e) {
+            var selected = $(this);
+            if (selected.next('div.sub-menu-block').hasClass('is-hidden')) {
+              selected.addClass('selected').next('div.sub-menu-block').removeClass('is-hidden');
+            } else {
+              selected.removeClass('selected').next('div.sub-menu-block').addClass('is-hidden');
+            }
+            e.preventDefault();
+          }).mouseleave(function (e) {
+            var selected = $(this);
+            if (selected.next('div.sub-menu-block').hasClass('is-hidden')) {
+              selected.addClass('selected').next('div.sub-menu-block').removeClass('is-hidden');
+            } else {
+              selected.removeClass('selected').next('div.sub-menu-block').addClass('is-hidden');
+            }
+            e.preventDefault();
+          });
+          function megaMenu() {
+            if ($("#header .container-fluid").length) {
+              var parentRow = $("#header .container-fluid > .row");
+              var parentLeft = parseInt(parentRow.css("marginLeft").replace('px', ''));
+            } else {
+              var parentRow = $("#header .container .row");
+              var parentLeft = parseInt(parentRow.offset().left);
+            }
+            var parentWidth = parentRow.width();
+            $("#header .dt-sc-header-logo-sec .dt-nav li:not(.close-nav)").each(function () {
+              var thisItem = $(this);
+              if (thisItem.hasClass('has-mega-menu')) {
+                var thisItemLeft = thisItem.find('a').offset().left;
+                var menuLeft = parseInt(thisItemLeft - parentLeft);
+                //console.log(thisItem.find('a').html()+ ' ==> '+parentLeft+' - '+thisItemLeft+' - '+menuLeft);
+                //  console.log('A ==> '+parentLeft+' - '+thisItemLeft+' - '+menuLeft);
+                thisItem.find('.sub-menu-block').css('width', parentWidth);
+                thisItem.find('.sub-menu-block').css('left', -menuLeft);
+              }
+            });
+            $("#header .sticky-header-active .dt-nav li:not(.close-nav)").each(function () {
+              var thisItem = $(this);
+              if (thisItem.hasClass('has-mega-menu')) {
+                var thisItemLeft = thisItem.find('a').offset().left;
+                var menuLeft = parseInt(thisItemLeft - parentLeft);
+                // console.log(thisItem.find('a').html()+ ' ==> '+parentLeft+' - '+thisItemLeft+' - '+menuLeft);
+                // console.log('B ==> '+parentLeft+' - '+thisItemLeft+' - '+menuLeft);            
+                thisItem.find('.sub-menu-block').css('width', parentWidth);
+                thisItem.find('.sub-menu-block').css('left', -menuLeft);
+              }
+            });
+            window.setTimeout(function () {
+              $(window).trigger('resize');
+            }, 800);
+          }
+          var megaMenuResize = false;
+          $(window).bind("resize", function () {
+            if (!megaMenuResize) {
+              megaMenu();
+              megaMenuResize = true;
+            }
+          });
+          megaMenu();
+        }
+        // COMMAN HEADER STICKY
+        if ($("#sticky-header").length > 0) {
+          var $sticky_header_cloned = $('#sticky-header').clone();
+          $sticky_header_cloned.attr('id', 'sticky-header-active').removeClass('dt-sc-header-logo-sec sticky_remove_on_mobile sticky-header').addClass('sticky-header-active');
+          $($sticky_header_cloned).insertAfter($('.sticky-header'));
+          var position = $('.dt-sc-header-logo-sec.sticky-header').position().top;
+          var position = position + 300;
+          $(window).scroll(function () {
+            mobileTrigger();
+            var scroll = $(window).scrollTop();
+            if (scroll > position) {
+              $("#sticky-header-active.sticky-header-active").addClass('dt-header-top');
+              $("#sticky-header-active.sticky-header-active").addClass('dt-header-scroll');
+              $("#sticky-header-active.sticky-header-active").show();
+            } else {
+              $("#sticky-header-active.sticky-header-active").removeClass('dt-header-top');
+              $("#sticky-header-active.sticky-header-active").removeClass('dt-header-scroll');
+            }
+          });
+        }
+      });
+
+      // TRIGGER MENU FOR BOTH CASES
+      function mobileTrigger() {
+        $('.menu-trigger').on('click', function (event) {
+          $('body').find('.mobile-menu').addClass('nav-is-visible');
+          $('body').find('.mobile-menu-overlay').addClass('is-visible');
+          $('body').addClass('nav-is-visible');
+          $("ul.dt-sc-list-inline.dt-desktop-menu:nth-child(2)").remove();
+        });
+      }
+      function closeMobNav() {
+        $('body').removeClass('nav-is-visible');
+        $('.mobile-menu-overlay').removeClass('is-visible');
+        $('.mobile-menu').removeClass('nav-is-visible');
+        $('.menu-item-has-children a').removeClass('selected');
+        $('.menu-item-has-children div.sub-menu-block').addClass('is-hidden');
+      }
+      $(window).on('resize', function () {
+        mobileTrigger();
+        closeMobNav();
+      });
+      $(window).on('load', function () {
+        mobileTrigger();
+        closeMobNav();
+      });
+    </script>
+    <nav class="breadcrumb text-center" aria-label="breadcrumbs">
+      <div class="container">
+        <h1 class="breadcrumb_title" lng-tag="contact">Contact</h1>
+        <a href="index.html" title="Back to the frontpage" lng-tag="home">Home</a>
+        <span aria-hidden="true" class="breadcrumb__sep">&#47;</span>
+        <span lng-tag="contact">Contact</span>
+      </div>
+    </nav>
+    <div class="clearfix"></div>
+    <div class="shifter-page is-moved-by-drawer" id="container">
+      <!-- content for layout -->
+      <div id="shopify-section-template--14757748670596__main" class="shopify-section">
+      <div class="dt-sc-section-wrapper   dt-sc-overlay " style="background-size:auto;  background-repeat:no-repeat;">
+          <div class="container-fluid spacing_enabled">
+            <div class="row ">
+              <div class="layout-type left_iconblock_form_inline">
+                <div id="map"><iframe
+                    src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d53159.941670087705!2d36.596366!3d33.61837!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDM2JzQ1LjIiTiAzNsKwMzYnMDkuNyJF!5e0!3m2!1sen!2sus!4v1697553144467!5m2!1sen!2sus"
+                    width="1920px" height="660px" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe> </div>
+                <ul class="dt-contact-iconblock-section dt-sc-column three-column">
+                  <li class="dt-contact-icon-block">
+                    <div class="dt-contact-icon-image">
+                      <i class="fa fa-phone"></i>
+                    </div>
+                    <div class="dt-contact-icon-content">
+                      <h4 lng-tag="phone">Phone</h4>
+                      <p> <span lng-tag="Italy:">Italy:</span> +(39)3478666670<br><span lng-tag="Dubai:">Dubai:</span> +(971)549980908<br><span lng-tag="Syria:">Syria:</span> +(963)944414030 </p><mark></mark>
+                    </div>
+                  </li>
+                  <li class="dt-contact-icon-block">
+                    <div class="dt-contact-icon-image">
+                      <i class="fa fa-envelope"></i>
+                    </div>
+                    <div class="dt-contact-icon-content">
+                      <h4 lng-tag="email">Email</h4>
+                      <p>
+                        <a title="info@example.com" href="mailto:info@example.com">Info@dliwatisons.com</a><br>
+                        <a title="support@example.com" href="mailto:support@example.com">Hussein@dliwatisons.com</a>
+                      </p>
+                    </div>
+                  </li>
+                  <li class="dt-contact-icon-block">
+                    <div class="dt-contact-icon-image">
+                      <i class="fa fa-location-arrow"></i>
+                    </div>
+                    <div class="dt-contact-icon-content">
+                      <h4 lng-tag="Head Office">Head Office</h4>
+                      <p>Via Melito centro ASI,9<br>83029 Solofra (AV) - Italy</p><mark></mark>
+                    </div>
+                  </li>
+                </ul>
+                <div class="contact-form-section">
+                  <h2 lng-tag="Contact Form">Contact Form</h2>
+                  <?php
+                  if(!empty($_POST["send"])) {
+	$userName = $_POST["userName"];
+    $userEmail = $_POST["userEmail"];
+	$Subject = $_POST["subject"];
+	$userMessage = $_POST["userMessage"];
+    $userPhone = $_POST["userPhone"];
+	$toEmail = "johnbearrie@gmail.com";
+    
+	$mailHeaders = "Name: " . $userName .
+	"\r\n Email: ". $userEmail  . 
+	"\r\n Subject: ". $Subject  . 
+	"\r\n Phone: ". $userPhone  . 
+	"\r\n Message: " . $userMessage . "\r\n";
+
+	if(mail($toEmail, $userName, $mailHeaders)) {
+	    $message = "Your contact information is received successfully.";
+	}
+}
+              ?>
+                  <form method="post" name="contactFormEmail" id="contact-us-form" accept-charset="UTF-8"
+                    class="contact-form"><input type="hidden" name="form_type" value="contact"><input type="hidden"
+                      name="utf8" value="✓">
+
+
+                    <label for="user-name" class="label--hidden" lng-tag="Name">Name</label>
+                    <input type="text" id="user-name" required class="input-full" name="userName"
+                      placeholder="Name" autocapitalize="words">
+                    <label for="user-email" class="label--hidden" lng-tag="email">Email</label>
+                    <input type="email" id="user-email" required class="input-full" name="userEmail"
+                      placeholder="Email" autocorrect="off" autocapitalize="off">
+                    <label for="user-phone" class="label--hidden" lng-tag="phone">Phone</label>
+                    <input type="tel" id=="user-phone" required class="input-full" name="userPhone"
+                      placeholder="Phone" pattern="[0-9\-]*">
+                    <label for="msg-subject" class="label--hidden" lng-tag="Subject">Subject</label>
+                    <input type="text" id="msg-subject" required class="input-full" name="subject"
+                      placeholder="Subject" autocapitalize="words">
+                    <label for="msg-text" class="label--hidden" lng-tag="Message">Message</label>
+                    <textarea rows="10" id="msg-text" class="input-full" name="userMessage"
+                      placeholder="Message" required></textarea>
+                    <button type="submit" class="btn" name="send" role="button" value="Submit" lng-tag="Send">
+                      Send
+                    </button>
+                  </form>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
+      <div id="shopify-section-template--14757748375684__1649080040bb0ab003"
+        class="shopify-section index-section home-newsletter-section">
+        <div class="dt-sc-section-wrapper  lazyload  " style="
+background-position:center center; background-size:auto;  background-repeat:no-repeat;" data-bgset="" data-sizes="auto"
+          data-parent-fit="cover" data-image-loading-animation="">
+          <div class="container-fluid">
+            <div class="row ">
+
+              <div class="dt-sc-heading wow slideInDown  text-center">
+                <h2 class="dt-sc-main-heading">
+                  <a href="https://bit.ly/3tGlvNY" target="_blank">
+                    @dliwatisons
+                  </a>
+                </h2>
+                <p class="dt-sc-heading-description" lng-tag="Follow us to keep up to day on the latest product launches, events and offers">Follow us to keep up to day on the latest product launches, events
+                  and offers</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- content for layout -->
+    </div>
+    <div class="clearfix"></div>
+    <!-- Theme Footer ====== -->
+
+    <footer class="site-footer" data-section-id="footer" data-section-type="footer-section"
+    style="margin-top:44px; background-image:url('cdn/shop/files/footer-bg.png');background-size:cover;background-repeat:no-repeat;">
+    <div class="site-footer__top" style="padding-top:70px; padding-bottom:20px;">
+      <div class="container">
+        <div class="row">
+          <div class="dt-sc-flex-space-between">
+            <div class=" footer__item--6f7e1d6e-7fad-452b-ab4a-5993ecc88b51 footer-custom-text">
+              <div class="text-start">
+                <h4 class="footer__title" lng-tag="Find Us">Find Us</h4>
+                <div class="footer-text">
+                  <p>Via Melito centro ASI,9<br>83029 Solofra (AV) - Italy</p>
+                  <p>+(39)3478666670</p>
+                </div>
+              </div>
+            </div>
+            <div class=" footer__item--28a557d9-cccb-40c8-a425-5693a91b930e footer-links">
+              <div class="text-start">
+                <h4 class="footer__title" lng-tag="information">Information </h4>
+                <ul class="footer_menu dt-sc-list">
+                  <li><a href="all.html" lng-tag="product">Products</a></li>
+                  <li><a href="news.html" lng-tag="Events">Events</a></li>
+                  <li><a href="about-us.html" lng-tag="about us">About Us</a></li>
+                  <li><a href="contact.php" lng-tag="Contact us">Contact us</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="footer__clear"></div>
+            <div class=" footer__item--40cc8690-9f76-4648-82d9-1632b26486a0 footer-logo">
+              <div class="text-start">
+                <a href="index.html">
+                  <img src="cdn/shop/files/footerlogo_8dd55fae-1d9a-4553-b2cf-ad64a7a0ff00_x200%402x.png"
+                    alt="dliwatisons" style="max-height:200px">
+                </a>
+                <p></p>
+                <div class="text-start">
+                  <ul class="dt-sc-social-icons dt-sc-list-inline">
+                    <li>
+                      <a class="icon-fallback-text fb hexagon" target="blank" href="https://bit.ly/3tGlvNY"
+                        title="Facebook">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                        <span class="icon__fallback-text">Facebook</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="icon-fallback-text ins" target="blank" href="https://bit.ly/3FtJ9A0" title="Instagram">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                        <span class="icon__fallback-text">Instagram</span>
+                      </a>
+                    </li>
+                    <li style="background-color:white;">
+                      <img src="cdn/shop/files/footerSilverRated.png">
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="site-footer__bottom">
+      <div class="container">
+        <div class="row">
+          <div class="dt-sc-flex-space-between">
+            <div class="footer__copyright">
+              <p>&copy; 2023
+                <a href="https://groupdiamond.net" target="_blank">GroupDiamond</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+    <!-- Footer JS files  -->
+
+    <script src="cdn/shop/t/2/assets/handlebars.min.js" type="text/javascript"></script>
+    <script src="cdn/shop/t/2/assets/dt-theme.js" type="text/javascript"></script>
+    <script src="cdn/shop/t/2/assets/lazysizes.js" async="async"></script>
+    <script src="cdn/shop/t/2/assets/dT_main.js" defer="defer"></script>
+    <script src="cdn/shop/t/2/assets/dT_main_app.js" defer="defer"></script>
+    <script src="cdn/shop/t/2/assets/dT_bundle_base.js" defer="defer"></script>
+    <script src="cdn/shop/t/2/assets/dT_bundle.js" defer="defer"></script>
+    <script src="cdn/shop/t/2/compiled_assets/scripts.js" type="text/javascript"></script>
+  <script src="cdn/shop/t/2/compiled_assets/translate.js" type="text/javascript"></script>
+    <!-- /snippets/ajax-cart-template.liquid -->
+
+    <script id="CartTemplate" type="text/template">
+
+<!-- <form action="/cart" method="post" novalidate class="cart ajaxcart">
+<ul class="ajaxcart__inner">
+{{#items}}
+<li class="ajaxcart__product">
+<div class="ajaxcart row" data-line="{{line}}">
+<div class="item_img"><a href="{{url}}" class="ajaxcart__product-image"> <img src="{{img}}" alt=""></a> </a></div>
+<div  class="details">
+
+<h5><a href="{{url}}" class="ajaxcart__product-name">{{name}}</a></h5>
+<div class="item-desc">
+<div class="item_dtl">
+{{#if variation}}
+<p class="ajaxcart__product-meta">{{variation}}</p>
+{{/if}}
+
+{{#properties}}
+{{#each this}}
+{{#if this}}
+<span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+{{/if}}
+{{/each}}
+{{/properties}}
+
+<div class="pricing">
+
+{{#if discountsApplied}}
+<span class="hidden">Sale price</span>
+<span class="ajaxcart__price onsale"><span class="money">{{{formatPrice discountedPrice}}}</span></span>
+<span class="hidden">Regular price</span>
+<del class="ajaxcart__price"><span class="money">{{{formatPrice price}}}</span></del>
+{{else}}
+<span class="ajaxcart__price"><span class="money">{{{formatPrice price}}}</span></span>
+{{/if}}
+
+{{#if discountsApplied}}
+{{#each discounts}}
+<p class="onsale"><i class="la la-tag"></i> {{ this.discount_application.title }} (-<span class="money">{{{formatPrice this.formattedAmount }}}</span>)</p>
+{{/each}}
+{{/if}}
+  </div>
+  </div>
+<div class="ajaxcart__qty product-item-caption-qty quantity">
+<button type="button" class="quantity-btn quantity-btn-minus ajaxcart__qty-adjust ajaxcart__qty--minus quantity-increment" data-id="{{id}}" data-qty="{{itemMinus}}" data-line="{{line}}">
+<span>&minus;</span>
+  </button>
+<input type="text" name="updates[]" class="quantity-btn-plus ajaxcart__qty-num input-number" value="{{itemQty}}" min="0" data-id="{{id}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+<button type="button" class="quantity-btn quantity-btn-plus ajaxcart__qty-adjust ajaxcart__qty--plus quantity-increment" data-id="{{id}}" data-line="{{line}}" data-qty="{{itemAdd}}">
+<span>+</span>
+  </button>                                  
+  </div>
+<span id="changeQty" class="ajaxcart__qty-remove remove-btn  dt-sc-btn close-icon" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}"></span>
+  </div>		
+  </div>
+  </div>
+
+  </div>
+
+{{/items}}
+
+
+  </ul>
+
+<div class="cartGoal-wrapper free-shipping-form {{{ shippingMessageClass }}}">
+<div class="greybar"> <span class="message money" id="haz-free-shipping">{{{shippingMessageHTML }}}</span>
+<div class="progress"></div>
+  </div>
+  </div>
+
+
+
+<div class="ajaxcart__footer row">
+
+<div class="subtotal">
+<p class="title">Total</p>
+<p class="subtotal-price"><span class="cart-original-total money">{{{formatPrice subTotalPrice}}}</span></p>                    
+  </div>
+
+
+
+<div class="discounts">
+{{#if cartDiscountsApplied}}
+<p>Translation missing: en.cart.general.discounts</p>
+<ul>
+{{#each cartDiscounts}}
+<li><i class="la la-tag"></i> (-<span class="money">{{{formatPrice this.formattedAmount }}}</span>)</li>
+{{/each}}
+  </ul>
+{{/if}}
+{{#if cartTotalSavings}}
+<div class="cart_savings onsale">
+<p><em>You're saving : {{ price }}</em></p>
+<p class="cart-savings-amount"><em><span class="money">{{formatPrice cartTotalDiscounts}}</span></em></p>
+  </div>
+{{/if}}
+  </div>
+<div class="total">
+<p>Shipping, taxes, and discounts will be calculated at checkout.</p>
+  </div>
+
+<button type="submit" class="cart__checkout dt-sc-btn" name="checkout">
+Proceed to Checkout 
+  </button>
+
+
+<a class="dt-sc-btn" href="/cart">View Cart </a>
+
+  </div>
+  </form>
+
+
+</script>
+    <script id="AjaxQty" type="text/template">
+
+<div class="ajaxcart__qty quantity">
+<button type="button" class="quantity-btn quantity-btn-minus ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{id}}" data-qty="{{itemMinus}}">
+<span class="icon icon-minus" aria-hidden="true"></span>
+<span class="fallback-text">&minus;</span>
+  </button>
+<input type="text" class="quantity-btn-number ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{id}}" aria-label="quantity" pattern="[0-9]*">
+<button type="button" class="quantity-btn quantity-btn-plus ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{id}}" data-qty="{{itemAdd}}">
+<span class="icon icon-plus" aria-hidden="true"></span>
+<span class="fallback-text">+</span>
+  </button>
+  </div>
+<span id="changeQty" class="ajaxcart__qty-adjust remove-btn" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}"><i class="fa fa-trash" aria-hidden="true"></i></span>
+
+</script>
+    <script id="JsQty" type="text/template">
+
+<div class="js-qty quantity">
+<button type="button" class="quantity-btn quantity-btn-minus js-qty__adjust js-qty__adjust--minus quantity-increment hide" data-id="{{id}}" data-qty="{{itemMinus}}">
+<span>&minus;</span>
+  </button>
+<input type="number" class="quantity-btn-number js-qty__num" value="{{itemQty}}" min="1" data-id="{{id}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}" >
+<button type="button" class="quantity-btn quantity-btn-plus js-qty__adjust js-qty__adjust--plus quantity-increment hide" data-id="{{id}}" data-qty="{{itemAdd}}">
+<span>+</span>
+  </button>
+  </div>
+<span id="changeQty" class="ajaxcart__qty-adjust remove-btn" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}"><i class="fa fa-trash" aria-hidden="true"></i></span>
+  
+</script>
+
+
+
+
+    <script>
+      jQuery(function ($) {
+        ajaxCart.init({
+          formSelector: '[data-product-form]',
+          cartContainer: '#CartContainer',
+          addToCartSelector: '.dT_AddToCart',
+          cartCountSelector: '.CartCount',
+          cartCostSelector: '.CartCost',
+          moneyFormat: "Rs. {{amount}}"
+        });
+      });
+
+      jQuery('body').on('ajaxCart.afterCartLoad', function (evt, cart) {
+        theme.RightDrawer.open();
+      });
+
+    </script>
+
+
+
+
+
+
+
+    -->
+
+<!--
+    <script>
+      Handlebars.registerHelper('formatPrice', function (aString) {
+        return new Handlebars.SafeString(aString);
+      });
+
+      $(document).ready(function () {
+        if ($('#shipping-calculator select').data('select2')) {
+          $("#shipping-calculator select").select2('destroy');
+        }
+
+        if ($('.dT_bundleSelector select').data('select2')) {
+          $(".dT_bundleSelector select").select2('destroy');
+        }
+
+
+        $('select').select2({ minimumResultsForSearch: Infinity, theme: "classic" });
+
+      });    -->
+    <!-- </script> -->
+    <!-- GDPR Cookies  -->
+    <!--<div id="shopify-section-gdpr-cookies" class="shopify-section gdpr-section">-->
+    <!--  <div class="cookie-disclaimer left">-->
+    <!--    <p>Please click Accept Cookies to continue to use the site.</p>-->
+    <!--    <div class="dt-sc-btn-group dt-sc-list-inline"><button type="button" class="accept-cookie">Accept</button>-->
+    <!--      <button type="button" class="decline-cookie">Decline</button>-->
+    <!--    </div>-->
+    <!--  </div>-->
+    <!--  <script type="text/javascript">-->
+    <!--    jQuery(document).ready(function () {-->
+    <!--      var cookie = false;-->
+    <!--      var cookieContent = $('.cookie-disclaimer');-->
+    <!--      checkCookie();-->
+    <!--      if (cookie === true) {-->
+    <!--        cookieContent.hide();-->
+    <!--      }-->
+    <!--      function setCookie(dt_gdpr_name, cookie_value, exdays) {-->
+    <!--        var d = new Date();-->
+    <!--        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));-->
+    <!--        var expires = "expires=" + d.toGMTString();-->
+    <!--        document.cookie = dt_gdpr_name + "=" + cookie_value + "; " + expires;-->
+    <!--      }-->
+    <!--      function getCookie(dt_gdpr_name) {-->
+    <!--        var name = dt_gdpr_name + "=";-->
+    <!--        var ca = document.cookie.split(';');-->
+    <!--        for (var i = 0; i < ca.length; i++) {-->
+    <!--          var c = ca[i].trim();-->
+    <!--          if (c.indexOf(name) === 0) return c.substring(name.length, c.length);-->
+    <!--        }-->
+    <!--        return "";-->
+    <!--      }-->
+    <!--      function checkCookie() {-->
+    <!--        var user = getCookie("dt_gdpr_name");-->
+    <!--        if (user !== "") {-->
+    <!--          cookie = true;-->
+    <!--        } else {-->
+    <!--          if (user !== "" && user !== null) {-->
+    <!--            setCookie("cookie_value", "cookie_value", 365);-->
+    <!--          }-->
+    <!--        }-->
+    <!--      }-->
+    <!--      function deleteCookie() {-->
+    <!--        setCookie('dt_gdpr_name', '', -1);-->
+    <!--      }-->
+    <!--      $('.accept-cookie').click(function () {-->
+    <!--        setCookie("dt_gdpr_name", "cookie_value", 365);-->
+    <!--        cookieContent.hide();-->
+    <!--      });-->
+    <!--      $('.decline-cookie').click(function () {-->
+    <!--        deleteCookie();-->
+    <!--        cookieContent.hide();-->
+    <!--      });-->
+    <!--    });-->
+    <!--  </script>-->
+
+    <!--</div>-->
+    <div class="dT_LoadingOverlay dT_collectionOverlay"></div>
+
+
+    <a id="to-top" href="#contact" class="dt-sc-to-top dt-sc-btn" style="display:none">
+      <i class="fa fa-long-arrow-up"></i>
+    </a>
+
+</body>
+
+</html>
